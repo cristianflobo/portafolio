@@ -1,0 +1,42 @@
+.tecno{
+    margin-top: 10px;
+    font-family:fantasy ;
+    font-size: 55px;
+    text-align: center;
+    color:orange;
+}
+.front{
+    margin-top: 30px;
+    font-family:fantasy ;
+    font-size: 45px;
+    text-align: center;
+    color:black;
+}
+.back{
+    margin-top: 30px;
+    font-family:fantasy ;
+    font-size: 45px;
+    text-align: center;
+    color:black;
+}
+.hover {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover:hover {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+.tecno12{
+   
+    background-color:rgb(252, 238, 233);
+    background-size:contain ;
+    
+}
+.tecno13{
+    border-left: 2px solid;
+    border-right: 2px solid;
+    background-color:rgb(252, 238, 233);
+}
