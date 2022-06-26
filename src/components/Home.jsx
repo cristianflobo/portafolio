@@ -1,6 +1,5 @@
 import React from 'react'
 import image from "../image/imagen.jpg"
-import fullstack from "../image/fullstack.webp"
 import js from "../image/js.png"
 import node from "../image/node.png"
 import express from "../image/express.png"
@@ -33,7 +32,7 @@ const Home = () => {
           </div>
         </div>
         <div style={{marginTop:"60px"}}></div>
-      <div class="row mb-3">
+      <div class="row mb-3" id="tecno">
       <div class="col-12 tecno12"> 
           <h1 className='tecno' >Tecnologias</h1>
       </div>

@@ -8,7 +8,7 @@ import pascual from "../image/pascual.png"
 
 const Study = () => {
   return (
-    <div class="container">
+    <div class="container" id="estudio">
       <div class="row mb-3">
         <div class="col-6 expe"><h1 className='frontExp' >Estudios</h1></div>
         <div class="col-6 expe"> <h1 className='frontExp' >Experiencia</h1></div>
