@@ -95,3 +95,6 @@
       overflow-y: auto;
     }
   }
+  .navbar{
+    align-items: center;
+  }

@@ -21,9 +21,9 @@ const Footer = () => {
             <ul class="m-0 p-0">
             <p class="mb-0"><i class="fa fa-phone mr-3"></i>(+57) 3207639924</p>
           <p><i class="fa fa-envelope-o mr-3"></i>cristianflobo@hotmail.com</p>
-              <a title="Los Tejos" href="https://api.whatsapp.com/send?phone=573207639924"><img style={{height:"50px",margin:"5px"}} src={whatsapp} alt="whatsapp" /></a>
-              <a title="Los Tejos" href="https://www.linkedin.com/in/cristian-lobo/"><img style={{height:"50px",margin:"5px"}} src={linkedin} alt="linkedin" /></a>
-              <a title="Los Tejos" href="https://github.com/cristianflobo"><img style={{height:"50px",margin:"5px"}} src={github} alt="github" /></a>
+              <a  href="https://api.whatsapp.com/send?phone=573207639924"><img style={{height:"50px",margin:"5px"}} src={whatsapp} alt="whatsapp" /></a>
+              <a  href="https://www.linkedin.com/in/cristian-lobo/"><img style={{height:"50px",margin:"5px"}} src={linkedin} alt="linkedin" /></a>
+              <a  href="https://github.com/cristianflobo"><img style={{height:"50px",margin:"5px"}} src={github} alt="github" /></a>
               
          
             </ul>
@@ -36,7 +36,7 @@ const Footer = () => {
       </div>
       <div class="row mt-5">
         <div class="col copyright">
-          <p class=""><small class="text-white-50">© 2019. dame trabajo.</small></p>
+          {/* <p class=""><small class="text-white-50">© 2019. dame trabajo.</small></p> */}
         </div>
       </div>
     </div>
