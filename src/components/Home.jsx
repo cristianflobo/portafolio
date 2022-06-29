@@ -15,6 +15,7 @@ import figma from "../image/figma.webp"
 import heroku from "../image/heroku.png"
 import "./style/Home.css"
 import Study from './Study'
+import Proyect from './Proyect'
 
 const Home = () => {
   return (
@@ -71,6 +72,7 @@ const Home = () => {
       </div>
       <div style={{marginTop:"60px"}}></div>
       <Study/>
+      <Proyect/>
     </div>
   )
 }
