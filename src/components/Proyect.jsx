@@ -13,7 +13,8 @@ const Proyect = () => {
                 <a href="https://bluebirdstore.vercel.app/">Bluebirdstore</a>
                 <p >Se utilizaron tecnologías como: JS, React , Redux, Node js, Express, Sequelize, Postgres, auth0</p>
                  <p > Se esta construyendo una pagina web para permitir la comercialización de productos con pasarela de pagos </p>
-                <img style={{width:"auto",height:"250px"}}src={bluebird} alt="" />
+                {/* <img style={{width:"auto",height:"250px"}}src={bluebird} alt="" /> */}
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/zTvZTOTI9zY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
       </div>
     </div>
