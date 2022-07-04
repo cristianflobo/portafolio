@@ -72,6 +72,7 @@ const Home = () => {
       </div>
       <div style={{marginTop:"60px"}}></div>
       <Study/>
+      <div style={{marginTop:"60px"}}></div>
       <Proyect/>
     </div>
   )

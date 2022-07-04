@@ -59,6 +59,7 @@
       position: absolute;
       right: 0px;
       top: 0px;
+      background-color: rgb(210, 154, 154);
     }
     .nav > .nav-btn > label {
       display: inline-block;

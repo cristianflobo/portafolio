@@ -1,9 +1,6 @@
-import React from 'react'
+export const proyectos = [
+    {link:"https://bluebirdstore.vercel.app/"}
+]
 
-const proyectos = () => {
-  return (
-    <div>proyectos</div>
-  )
-}
 
-export default proyectos
+
