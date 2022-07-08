@@ -19,8 +19,7 @@ const Proyect = () => {
                 <a href="https://intense-plateau-97412.herokuapp.com/home">Countries Tour</a>
                 <p >Se utilizaron tecnologías como: JS, React , Redux, Node js, Express, Sequelize, Postgres</p>
                  <p > Se esta construyendo una pagina web para ver infomacion de paises y poder crear tour </p>
-                <img style={{width:"560px",height:"315px"}}src={countries} alt="" />
-                {/* <iframe style={{marginBottom:"15px"}} width="560" height="315" src="https://www.youtube.com/embed/zTvZTOTI9zY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
+                <iframe style={{marginBottom:"9px"}} width="560" height="315" src="https://www.youtube.com/embed/7O0rIA-qhSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
       </div>
       

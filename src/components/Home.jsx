@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import image from "../image/imagen.jpg"
 import js from "../image/js.png"
 import node from "../image/node.png"
@@ -18,6 +18,7 @@ import Study from './Study'
 import Proyect from './Proyect'
 
 const Home = () => {
+
   return (
     <div class="container">
         <div class="row mb-3">
@@ -29,7 +30,8 @@ const Home = () => {
             <h4 style={{fontFamily:"MozAnimation", color:"black",fontWeight: "bolder",fontSize:"35px"}}>Te invito a revisar todo mi portafolio </h4>
           </div>
           <div class="col-6"> 
-            <img style={{width:"700px"}} src={image}></img>
+          <img  className='imgder'  src={image}></img>   
+            
           </div>
         </div>
         <div style={{marginTop:"60px"}}></div>

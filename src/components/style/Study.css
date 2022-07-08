@@ -9,3 +9,8 @@
     border-top: 1px solid;
     border-bottom: 1px solid;
 }
+@media (max-width:600px) {
+.añop{
+    font-size: 10px;
+}
+}

@@ -18,7 +18,7 @@ const Navbar = () => {
     </label>
   </div>
   
-  <div class="nav-links"style={{display:"flex",marginLeft:"20px"}}>
+  <div class="nav-links">
     <a href="https://github.com/cristianflobo/cristianflobo" target="_blank">Github</a>
     <a href="https://www.linkedin.com/in/cristian-lobo/" target="_blank">LinkedIn</a>
     <a href="https://www.canva.com/design/DAFCsUNy4FQ/i-tqdkbrKJXzD13-z9VGpw/view?utm_content=DAFCsUNy4FQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Ver CV</a>
